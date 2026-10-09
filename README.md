@@ -2,11 +2,15 @@
 
 **Desarrollador de Software Multiplataforma | Estudiante de Ingeniería**
 
-## 💻 Sobre mí
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Sobre mí
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px"></picture>
 
 Soy estudiante de la Ingeniería en Desarrollo y Gestión de Software en la UTCV. Me defino como un desarrollador sólido en la capacidad para analizar y resolver problemas mediante el uso de diversas herramientas tecnológicas.
 
 Me enfoco en el aprendizaje continuo y la mejora de procesos a través de la innovación digital. Siempre busco expandir mis conocimientos para construir soluciones eficientes, ya sea en el desarrollo web frontend/backend o en aplicaciones móviles nativas.
+
+<br clear="right"/>
 
 ---
 
